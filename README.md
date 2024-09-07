@@ -20,5 +20,5 @@ Voici un aperçu de certains de mes projets :
 ### 📈 [Travaux Pratiques IMA & TSIA]
 - Vous retrouverez quelques travaux pratiques et projets réalisés dans le cadre de ma deuxième année à Télécom Paris au sein des filières Image et Traitement du Signal pour l'Intelligence Artificielle
 
-### 🦠 [Détection de mélanomes dans des images médicales](lien_vers_le_projet)
+### 🦠 [Détection de mélanomes dans des images médicales](https://github.com/antoineverier/PAF-Namas)
 - Application de modèles de traitement d'image pour l'analyse de données médicales. 🏥
