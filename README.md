@@ -1,5 +1,3 @@
-# 👋 Bienvenue sur mon GitHub !
-
 ## 🎓 À propos de moi
 
 Salut ! Je suis **Antoine Verier**, étudiant à **Télécom Paris**, spécialisé en **traitement du signal** et **imagerie**. Passionné par les technologies de pointe et **l'intelligence artificielle**, je suis toujours à la recherche de nouveaux défis à relever à travers des projets innovants. 🚀
