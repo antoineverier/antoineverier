@@ -2,7 +2,7 @@
 
 Hi! I'm **Antoine Verier**, a student at **Télécom Paris**, specializing in **signal processing** and **imaging**.
 
-## 🎯 Areas of Expertise
+## 🎯 Expertise
 - Signal processing 📡
 - Digital imaging 📷
 - Artificial intelligence 🤖
